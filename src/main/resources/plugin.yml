@@ -1,0 +1,7 @@
+name: WhitelistCord
+version: '1.0'
+main: dev.greenishes.whitelistCord.WhitelistCord
+api-version: '1.21'
+author: Greenishes
+description: A plugin to have anyone whitelist themselves from a Discord bot.
+website: https://github.com/Greenishess/WhitelistCord
