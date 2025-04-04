@@ -4,8 +4,8 @@ plugins {
     kotlin("plugin.serialization") version "2.1.10"
 }
 
-group = "to.us.greenishes"
-version = "1.0-SNAPSHOT"
+group = "dev.greenishes"
+version = "1.0"
 
 repositories {
     mavenCentral()
